@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Overview
-**SB_61** is a multi-tiered, enterprise-grade neural security framework built with **FastAPI**. It delivers robust, real-time threat detection, cryptographic payload verification, and automated defensive isolation across high-security infrastructures.
+**SB61** is a multi-tiered, enterprise-grade neural security framework built with **FastAPI**. It delivers robust, real-time threat detection, cryptographic payload verification, and automated defensive isolation across high-security infrastructures.
 
 ---
 
@@ -28,7 +28,7 @@ The system operates across three distinct, highly secured defense layers:
 ---
 
 ## 🔐 Cryptographic Integrity (Aaron Layer)
-Every successful transaction processed through SB_61 is cryptographically signed using **HMAC-SHA512** combined with a high-entropy secret system key and dynamic timestamps, ensuring absolute tamper-proof audit trails.
+Every successful transaction processed through SB61 is cryptographically signed using **HMAC-SHA512** combined with a high-entropy secret system key and dynamic timestamps, ensuring absolute tamper-proof audit trails.
 
 ---
 
@@ -39,4 +39,4 @@ Every successful transaction processed through SB_61 is cryptographically signed
 * `POST /sb61/api/v1/skull-secure-process` - Supreme skull shield execution.
 
 ---
-*© 2026 SB_61 Enterprise Security. All Rights Reserved.*
+*© 2026 SB61 Enterprise Security. All Rights Reserved.*
