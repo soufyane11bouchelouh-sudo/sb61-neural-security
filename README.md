@@ -1,4 +1,4 @@
-# 🛡️ SB_61 Enterprise Unified Neural Security System
+# 🛡️ SB61 Enterprise Unified Neural Security System
 
 > **Next-Generation Autonomous Neural Security Engine** designed to neutralize advanced corporate threats, data injections, and malicious cyber attacks in real-time.
 
